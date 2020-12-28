@@ -1,7 +1,9 @@
 public class java {
 
-    priavte int id;
+    private int id;
 
-    priavte String name;
+    private String name;
+	
+	private String email;
 
 }
